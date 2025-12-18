@@ -13,7 +13,40 @@ export default function CopilotKitPage() {
       title: "Marketing Assets",
       message: "I'd like a Marketing Assets Report",
     },
+    {
+      title: "ICP Check",
+      message: "I'd like an ICP Check",
+    },
+    {
+      title: "Brand Reputation Snapshot",
+      message: "I'd like a Brand Reputation Snapshot",
+    },
+    {
+      title: "Overhead Check",
+      message: "I'd like an Overhead Check",
+    },
+    {
+      title: "CRO Assessment",
+      message: "I'd like a CRO Assessment",
+    },
+    {
+      title: "Sales Tips",
+      message: "I'd like Sales Tips",
+    },
+    {
+      title: "AI in your Industry",
+      message: "I'd like AI in your Industry",
+    },
+    {
+      title: "SEO Opportunities Report",
+      message: "I'd like an SEO Opportunities Report",
+    },
+    {
+      title: "Weak CTA Detector",
+      message: "I'd like a Weak CTA Detector",
+    },
   ];
+
 
   return (
     // Change 1: Set page background to white by adding 'bg-white'
