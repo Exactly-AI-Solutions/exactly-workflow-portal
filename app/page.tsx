@@ -14,6 +14,18 @@ export default function CopilotKitPage() {
       message: "I'd like a Marketing Assets Report",
     },
     {
+      title: "Competitor Intel",
+      message: "I'd like a Competitor Intel Report",
+    },
+    {
+      title: "SWOT Analysis",
+      message: "I'd like a SWOT Analysis",
+    },
+    {
+      title: "Company Report",
+      message: "I'd like a Company Report",
+    },
+    {
       title: "ICP Check",
       message: "I'd like an ICP Check",
     },
@@ -44,6 +56,10 @@ export default function CopilotKitPage() {
     {
       title: "Weak CTA Detector",
       message: "I'd like a Weak CTA Detector",
+    },
+    {
+      title: "Tidbit",
+      message: "I'd like an Email Tidbit",
     },
   ];
 
