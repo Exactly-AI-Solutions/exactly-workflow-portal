@@ -4,11 +4,6 @@ import { CopilotChat } from "@copilotkit/react-ui";
 import "@copilotkit/react-ui/styles.css";
 
 export default function CopilotKitPage() {
-  const suggestions = [
-
-  ];
-
-
   return (
     // Change 1: Set page background to white by adding 'bg-white'
     <main className="min-h-screen w-full flex flex-col items-center p-4 bg-white">
@@ -23,7 +18,6 @@ export default function CopilotKitPage() {
             title: "Exactly Chatbot Alpha",
             initial: `Welcome to the Exactly Chatbot!`,
           }}
-          suggestions={suggestions}
         />
       </div>
     </main>
