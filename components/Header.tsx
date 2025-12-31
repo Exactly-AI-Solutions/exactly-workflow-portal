@@ -33,11 +33,11 @@ export default function Header() {
               className="text-sm font-medium text-foreground/80 hover:text-foreground transition-colors">
               Home
             </Link>
-            {/* <Link
-              href="/copilotkit"
+            <Link
+              href="/chat"
               className="text-sm font-medium text-foreground/80 hover:text-foreground transition-colors">
-              Workflows
-            </Link> */}
+              Chat
+            </Link>
           </nav>
 
           {/* Mobile menu button */}
